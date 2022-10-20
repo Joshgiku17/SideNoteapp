@@ -1,0 +1,208 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" /></head><body><div class="v9_74"><div class="v16_331"></div><div class="name"></div><div class="name"></div><span class="v9_104">Notes</span><div class="v9_126"><div class="v9_127"></div><div class="v9_129"><div class="v9_130"></div><div class="v9_131"></div></div><span class="v9_128">Search</span></div><div class="name"></div><div class="name"></div><div class="name"></div><div class="name"></div><span class="v16_330">11:53</span><div class="name"></div><div class="name"></div><div class="name"></div><span class="v16_350">Saturday</span><div class="name"></div><div class="name"></div><div class="v9_123"><div class="v9_124"></div><div class="v9_125"></div></div><span class="v16_360">14/07/2022</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v9_74 {
+  width: 375px;
+  height: 812px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v16_331 {
+  width: 349px;
+  height: 112px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 206px;
+  left: 18px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v9_104 {
+  width: 86px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 83px;
+  left: 19px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v9_126 {
+  width: 343px;
+  height: 50px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 19px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+}
+.v9_127 {
+  width: 343px;
+  height: 50px;
+  background: rgba(246,246,246,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 1px solid rgba(231,231,231,1);
+}
+.v9_129 {
+  width: 34px;
+  height: 34px;
+  background: url("../images/v9_129.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 301px;
+  overflow: hidden;
+}
+.v9_130 {
+  width: 34px;
+  height: 34px;
+  background: rgba(93,176,116,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.v9_131 {
+  width: 10px;
+  height: 14px;
+  background: url("../images/v9_131.png");
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  border: 2.000000238418579px solid rgba(255,255,255,1);
+}
+.v9_128 {
+  width: 54px;
+  color: rgba(189,189,189,1);
+  position: absolute;
+  top: 16px;
+  left: 56px;
+  font-family: Inter;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v16_330 {
+  width: 21px;
+  color: rgba(151,151,151,1);
+  position: absolute;
+  top: 233px;
+  left: 22px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 8px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v16_350 {
+  width: 36px;
+  color: rgba(151,151,151,1);
+  position: absolute;
+  top: 270px;
+  left: 22px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 8px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v9_123 {
+  width: 24px;
+  height: 24px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 151px;
+  left: 33px;
+  overflow: hidden;
+}
+.v9_124 {
+  width: 16px;
+  height: 16px;
+  background: url("../images/v9_124.png");
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  border: 2px solid rgba(189,189,189,1);
+}
+.v9_125 {
+  width: 4px;
+  height: 4px;
+  background: url("../images/v9_125.png");
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  border: 2px solid rgba(189,189,189,1);
+}
+.v16_360 {
+  width: 47px;
+  color: rgba(151,151,151,1);
+  position: absolute;
+  top: 307px;
+  left: 21px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 8px;
+  opacity: 1;
+  text-align: left;
+}
+</style>
